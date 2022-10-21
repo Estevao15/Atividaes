@@ -1,0 +1,49 @@
+
+body {
+    margin: 0;
+    background-color: #fff;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+.cabecalho_rodape {
+    background-color: rgba(116, 2, 2, 0.849);
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+#corpo-da-pagina {
+    background-color: #e2d8e7;
+    color: #21022d;
+    margin: 24px;
+    padding: 16px;
+}
+
+#lista-vitaminas {
+    padding: 0 64px;
+    margin-top: 32px;
+}
+
+#lista-vitaminas .vitaminas {
+ margin-bottom: 64px;
+}
+
+#lista-vitaminas .vitaminas img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+#vitaminas_sem_lactose {
+    text-align: center;
+}
+
+#vitaminas_sem_lactose img {
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+    margin-top: 32px;
+}
